@@ -5,6 +5,6 @@
 Some projects that I made with Python.  If you find any issues, I'd appreciate your feedback to help improve them. Also if you like some payloads you can give me a star 😉
 
 ## PyProjects
-1. Url-Shorteners
-2. YT-Downloader
-3. Password Generator
+1. [Url-Shorteners](https://github.com/brunoooost/python-projects/tree/main/projects/url-shortener)
+2. [YT-Downloader](https://github.com/brunoooost/python-projects/tree/main/projects/yt-downloader)
+3. [Password Generator](https://github.com/brunoooost/python-projects/tree/main/projects/password-generator)
