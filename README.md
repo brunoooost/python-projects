@@ -7,4 +7,4 @@ Some projects that I made with Python.  If you find any issues, I'd appreciate y
 ## PyProjects
 1. Url-Shorteners
 2. YT-Downloader
-3. 
+3. Password Generator
